@@ -10,11 +10,15 @@
 		
 		
 			<div class='column sidebar sidebar-left'>
-				1
+
 				<div class='menu-container'>
-				<ul>
-				<li>1</li>
-				<li>2</li></ul>
+					<ul class='menu'>
+						<li class='menubutton'>Chapter 1</li>
+						<li class='menubutton'>Chapter 2</li>
+						<li class='menubutton'>Chapter 3</li>
+						<li class='menubutton'>Chapter 4</li>
+						<li class='menubutton'>Chapter 5</li>				
+					</ul>
 				</div>
 			</div>
 			
@@ -22,8 +26,8 @@
 			<div class='column center center-left'>
 				
 				<div class='titelcolumn'>
-					<div class='hoofdtitel'><h1>Hier komt dan de hoofdtitel</h1></div>
-					<div class='ondertitel'><h2>Hier komt dan de ondertitel</h2></div>					
+					<div class='hoofdtitel'><h1>I like books.</h1></div>
+					<div class='ondertitel'><h2>So I designed my webpage like one!</h2></div>					
 				</div>
 					
 				<div class='vrowcolumn'>
@@ -33,7 +37,9 @@
 				
 				
 			<div class='column center center-right'>
-				3
+			
+				<iframe class='textpage' src='textpage.html'></iframe>
+
 			</div>
 			
 			
